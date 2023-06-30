@@ -51,4 +51,17 @@ public class Sort {
         }
     }
 
+
+    public static void quiqSort(int[] array, int startPosition, int endPosition){
+        int pivot = (startPosition + endPosition)/2;
+        int rightPosition = endPosition;
+        int leftPosition = startPosition;
+        do{
+            
+
+        } while (leftPosition <= rightPosition);
+    }
+
+
+
 }
